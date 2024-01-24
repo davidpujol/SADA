@@ -1,2 +1,2 @@
-# SADA: Semantic adversarial unsupervised domain adaptation \\ for Temporal Action Localization
+# SADA: Semantic adversarial unsupervised domain adaptation for Temporal Action Localization
 This is the official implementation of "SADA: Semantic adversarial unsupervised domain adaptation for Temporal Action Localization". The code will be released soon...
